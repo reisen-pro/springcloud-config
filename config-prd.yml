@@ -1,0 +1,2 @@
+config:
+  info: "prd branch,springcloud-config/config-prd.yml version=1"
